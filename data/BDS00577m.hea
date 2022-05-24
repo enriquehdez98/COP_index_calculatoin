@@ -1,0 +1,18 @@
+BDS00577m 8 100 6000
+BDS00577m.mat 32+192 419729703.154(-1655947006)/N 0 0 -296836204 3535 0 Fx
+BDS00577m.mat 32+192 576944232.106(1506225711)/N 0 0 -464959068 17149 0 Fy
+BDS00577m.mat 32+192 842579835.096(-694665943)/N 0 0 -520239544 30079 0 Fz
+BDS00577m.mat 32+192 253632975.703(-546790973)/Nm 0 0 -1534069252 5872 0 Mx
+BDS00577m.mat 32+192 210874877.875(-1252145397)/Nm 0 0 414164270 -26462 0 My
+BDS00577m.mat 32+192 5138909913.45(-793355192)/Nm 0 0 163365946 5177 0 Mz
+BDS00577m.mat 32+192 1430905493.22(1250733743)/cm 0 0 -416547321 -18809 0 COPx
+BDS00577m.mat 32+192 1721632646.89(-546516789)/cm 0 0 -1534708104 27557 0 COPy
+#Subject:49
+#Age:73.91666666666667
+#Gender:F
+#Height:161.8
+#Weight:68.9
+#Illness:Hypothyroidism, Rheumatism, Anxiety, Osteopenia, Gastroesophageal reflux
+#Medication:Synthetic thyroid hormone, Selective serotonin and norepinephrine reuptake inhibitor, Antiinflammatory, Proton pump inhibitor, Dopamine antagonist, Analgesic/Antipyretic, Corticosteroid 
+#Creator: wfdb2mat
+#Source: record hbedb/BDS00577

@@ -1,0 +1,18 @@
+BDS00670m 8 100 6000
+BDS00670m.mat 32+192 522436195.58(1954004106)/N 0 0 -2964564 -28336 0 Fx
+BDS00670m.mat 32+192 623927699.666(-163142121)/N 0 0 -138891297 -11478 0 Fy
+BDS00670m.mat 32+192 921923990.384(-9530554)/N 0 0 346290323 32738 0 Fz
+BDS00670m.mat 32+192 266026469.804(156857852)/Nm 0 0 676137265 -4268 0 Mx
+BDS00670m.mat 32+192 248932295.116(-478812557)/Nm 0 0 -1865190192 17896 0 My
+BDS00670m.mat 32+192 8218224302.78(-533276464)/Nm 0 0 252640542 -29825 0 Mz
+BDS00670m.mat 32+192 1718734223.24(478845370)/cm 0 0 1866365759 6018 0 COPx
+BDS00670m.mat 32+192 1835113397.2(156341568)/cm 0 0 675583234 10587 0 COPy
+#Subject:56
+#Age:60.5
+#Gender:F
+#Height:156.7
+#Weight:70.4
+#Illness:Hypertension, Hypercholesterolemia, Essential tremor, Osteopenia, Gastritis, Esophagitis
+#Medication:Angiotensin II receptor antagonist, Beta blocker, HMG coenzyme A reductase inhibitor, Sedative, Muscle relaxant 
+#Creator: wfdb2mat
+#Source: record hbedb/BDS00670

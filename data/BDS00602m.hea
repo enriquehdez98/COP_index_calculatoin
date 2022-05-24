@@ -1,0 +1,18 @@
+BDS00602m 8 100 6000
+BDS00602m.mat 32+192 562230751.468(-1286546444)/N 0 0 -103979517 -24293 0 Fx
+BDS00602m.mat 32+192 1128536799.25(-1461157223)/N 0 0 -175637568 14662 0 Fy
+BDS00602m.mat 32+192 871908339.506(1183219591)/N 0 0 197231334 171 0 Fz
+BDS00602m.mat 32+192 503649025.839(-965979945)/Nm 0 0 914163526 -6832 0 Mx
+BDS00602m.mat 32+192 161134223.016(184303554)/Nm 0 0 -723557437 25134 0 My
+BDS00602m.mat 32+192 9698907693.7(1183955361)/Nm 0 0 -1048054266 -8903 0 Mz
+BDS00602m.mat 32+192 1198664879.21(-181397554)/cm 0 0 720962164 -26409 0 COPx
+BDS00602m.mat 32+192 3742020195.74(-968320695)/cm 0 0 912572078 -3501 0 COPy
+#Subject:51
+#Age:62.75
+#Gender:F
+#Height:159.5
+#Weight:75.85
+#Illness:Heart disease, Lymphedema of the lower members
+#Medication:Vasodilator, Calcium-channel blocker, Beta blocker, Nonsteroidal antiinflammatory, HMG coenzyme A reductase inhibitor, Proton pump inhibitor 
+#Creator: wfdb2mat
+#Source: record hbedb/BDS00602

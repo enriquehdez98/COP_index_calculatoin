@@ -1,0 +1,17 @@
+Source: record hbedb/BDS00268
+val has 8 rows (signals) and 6000 columns (samples/signal)
+Duration:     1:00
+Sampling frequency: 100 Hz  Sampling interval: 0.01 sec
+Row	Signal	Gain	Base	Units
+1	Fx	1225932449.04	12210900	N
+2	Fy	861728066.647	1037616677	N
+3	Fz	1223063158.38	1204673585	N
+4	Mx	292394996.311	-763789531	Nm
+5	My	347001187.569	-1764099036	Nm
+6	Mz	10795145274.4	-852703134	Nm
+7	COPx	2458588521.31	1765246888	cm
+8	COPy	2072828650.33	-762336630	cm
+
+To convert from raw units to the physical units shown
+above, call the 'rdmat.m' function from the wfdb-matlab
+toolbox: https://physionet.org/physiotools/matlab/wfdb-app-matlab/
